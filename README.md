@@ -1,5 +1,5 @@
 # Commandline Project with NodeJS
-I created this project when i'm following this course: [Course](hhttps://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
+I created this project when i'm following this course: [Course](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
 
 # To run the project
 For running project on local, you have to install all libraries with this command:  
